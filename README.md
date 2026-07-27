@@ -10,7 +10,7 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## Student Information
 - **Name:** Mark Justine S. Racca
-- **Course/Section:** BS Information Technology
+- **Course/Section:** BSIT-4J
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026-2027
 
